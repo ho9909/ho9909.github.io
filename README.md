@@ -1,4 +1,8 @@
 ## 조성인 포트폴리오
+ - 조성인(Jo Seong In) 포트폴리오
+
+## Intro
+
 
 ## Table of Contents
 - [Sections](#sections)
