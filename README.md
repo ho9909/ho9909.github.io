@@ -36,7 +36,7 @@
 >> 사용언어
 >> - Language : c++
 >>
->> [프로젝트 상세 설명] (https://github.com/ho9909/notepad)
+>> [프로젝트 상세 설명](https://github.com/ho9909/notepad)
 >>
 
 <br />
@@ -48,8 +48,8 @@
 >
 >> 사용언어
 >> - Language : c++
->>
->> [프로젝트 상세 설명] (https://github.com/ho9909/paint-board)
+>> 
+>> [프로젝트 상세 설명](https://github.com/ho9909/paint-board)
 >>
 
 <br />
@@ -62,7 +62,7 @@
 >> 사용언어
 >> - Language : C++
 >>
->> [프로젝트 상세 설명] (https://github.com/ho9909/MFC_img)
+>> [프로젝트 상세 설명](https://github.com/ho9909/MFC_img)
 >>
 
 <br />
