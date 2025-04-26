@@ -49,7 +49,7 @@
 >> 사용언어
 >> - Language : c++
 >>
->> [프로젝트 상세 설명]
+>> [프로젝트 상세 설명] https://github.com/ho9909/paint-board.git
 >>
 
 <br />
