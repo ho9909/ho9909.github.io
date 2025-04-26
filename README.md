@@ -75,7 +75,7 @@
 > - Language : c#
 > - Skill : Unity
 > 
-> [프로젝트 상세설명]
+> [프로젝트 상세 설명](https://github.com/ho9909/zobie_run)
 
 <br />
 
