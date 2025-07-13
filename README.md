@@ -86,7 +86,8 @@
 > - 핵심 열할 : 프로그래머 전체
 > - Language : C#
 > - skill : Unity 3D mobile
->  [프로젝트 상세설명] (https://github.com/ho9909/RandomTowerDefense)
+>
+>  [프로젝트 상세설명](https://github.com/ho9909/RandomTowerDefense)
 <br />
 
 ## 7. Yolo5 를 기반으로한 CCTV를 이용한 차량 추적 프로그램
@@ -96,5 +97,5 @@
 > - 핵심 역활 : 팀장, 차량 감시 시스템 구현, 데이터 전처리 및 학습
 > - Language : Python3
 >
->  [프로젝트 상세설명] https://github.com/ho9909/cctv_detect
+>  [프로젝트 상세설명](https://github.com/ho9909/cctv_detect)
 <br />
