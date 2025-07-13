@@ -86,7 +86,8 @@
 > - 핵심 열할 : 프로그래머 전체
 > - Language : C#
 > - skill : Unity 3D mobile
->  [프로젝트 상세설명] [https://github.com/ho9909/cctv_detect](https://github.com/ho9909/RandomTowerDefense)
+>  [프로젝트 상세설명] (https://github.com/ho9909/RandomTowerDefense)
+<br />
 
 ## 7. Yolo5 를 기반으로한 CCTV를 이용한 차량 추적 프로그램
 > 차량 번호판을 이요한 차량 추적이 아닌 차량 자체를 학습시켜서 특정 차량을 선택하면, 국도교통부에서 제공하는 고속도로 및 국도 CCTV를 이용해서 차량의 이동 경로 추적
@@ -96,3 +97,4 @@
 > - Language : Python3
 >
 >  [프로젝트 상세설명] https://github.com/ho9909/cctv_detect
+<br />
